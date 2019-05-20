@@ -1,0 +1,2 @@
+# GuanghuachaoshiGuides
+复旦大学光华公司超市系统的一些使用说明
